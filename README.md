@@ -10,7 +10,7 @@ I'm Caio! I'm a **Android Developer**:iphone:, looking to solve **real-world pro
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Caio Asai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-asai/)
+[![Linkedin](https://img.shields.io/badge/-CaioAsai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-asai/)
 [![Instagram](https://img.shields.io/badge/-caio.asai-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/caio.asai/)
 [![Gmail](https://img.shields.io/badge/-caio.asai-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caio.asai@gmail.com)
 
