@@ -36,13 +36,15 @@ Since Brazil is in the quarantine stage:earth_asia:, I've decided to take this t
 * Adapting the minimalism life style
 * 🔜
 
-
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br>
 
 <!-- Credit -->
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs. 
-
 
 <!--
 **JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
