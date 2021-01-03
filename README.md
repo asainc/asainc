@@ -18,6 +18,8 @@ I'm Caio! I'm a **Mechatronic Engineer**:robot: and a **Android Developer**:ipho
 ![](https://komarev.com/ghpvc/?username=asainc&style=flat)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<br>
+
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
 * Learning some vectors drawing:art: by using Adobe Illustrator.
