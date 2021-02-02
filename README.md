@@ -22,16 +22,16 @@ I'm Caio! I'm a **Mecatronic Engineer**:robot: and a **Fullstack Developer**:iph
 <br>
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
+* Improving my Front-End Web:computer: Development skills.
 * Looking forward to take a Flutter:calling: course in future.
+* Developing chatbots:robot: using Watson Assistant.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since Brazil is in the quarantine stage:earth_asia:, I've decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since Brazil is in the quarantine stage:earth_asia:, I've decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself further.:running: 
 
 * Learn to code:man_technologist: 1-2 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev, UI, Machine Learning and Data Science/Analytics articles daily 
+* Read:newspaper: Dev, UI, Machine Learning and Data Science/Analytics articles weekly 
 * Avoid spending too much time on Youtube Entertainment and Netflix:skull_and_crossbones:
 * Adapting the minimalism life style
 * 🔜
