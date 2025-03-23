@@ -5,7 +5,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Caio! I'm a **Mecatronic Engineer**:robot: and a **Fullstack Developer**:iphone: looking to solve **real-world problems**:earth_asia:. I'm passionate about developing more accessible **open-source** softwares:computer: and tools to help people to improve their lives. Do :star2: my repository if you find my projects interesting, at least your star could make someone's day:pray:.
+I'm Caio! I'm a **Mecatronic Engineer**:robot: and a **Data Science Lead**:iphone: looking to solve **real-world problems**:earth_asia:. I'm passionate about developing more accessible **open-source** softwares:computer: and tools to help people to improve their lives. Do :star2: my repository if you find my projects interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :blush:</em>
 
