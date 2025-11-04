@@ -5,7 +5,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Caio! I'm a **Mecatronic Engineer**:robot: and a **Data Science Lead**:iphone: looking to solve **real-world problems**:earth_asia:. I'm passionate about developing more accessible **open-source** softwares:computer: and tools to help people to improve their lives. Do :star2: my repository if you find my projects interesting, at least your star could make someone's day:pray:.
+I'm Caio! I'm a **Mecatronic Engineer**:robot: and **Data Science Lead**:iphone: looking to solve **real-world problems**:earth_asia:. I'm passionate about developing more accessible **open-source** softwares:computer: and tools/models to help people to improve their lives. Do :star2: my repository if you find my projects interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -24,11 +24,11 @@ I'm Caio! I'm a **Mecatronic Engineer**:robot: and a **Data Science Lead**:iphon
 ### 💼  Things that I'm currently working on: 
 * Improving my Front-End Web:computer: Development skills.
 * Looking forward to take a Flutter:calling: course in future.
-* Developing chatbots:robot: using Watson Assistant.
+* Developing conversational agents :robot: using LangChain and LangGraph.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since Brazil is in the quarantine stage:earth_asia:, I've decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself further.:running: 
+I set a couple of self-challenges in order to push myself further.:running: 
 
 * Learn to code:man_technologist: 1-2 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev, UI, Machine Learning and Data Science/Analytics articles weekly 
