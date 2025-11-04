@@ -10,7 +10,7 @@ I'm Caio! I'm a **Mecatronic Engineer**:robot: and **Data Science Lead**:iphone:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Facebook](https://img.shields.io/badge/-CaioAsai-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/caio.noboru)
+[![Facebook](https://img.shields.io/badge/-CaioAsai-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/asai.caio)
 [![Instagram](https://img.shields.io/badge/-caio.asai-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/caio.asai/)
 [![Linkedin](https://img.shields.io/badge/-CaioAsai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-asai/)
 [![Gmail](https://img.shields.io/badge/-caio.asai-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caio.asai@gmail.com)
@@ -25,6 +25,7 @@ I'm Caio! I'm a **Mecatronic Engineer**:robot: and **Data Science Lead**:iphone:
 * Improving my Front-End Web:computer: Development skills.
 * Looking forward to take a Flutter:calling: course in future.
 * Developing conversational agents :robot: using LangChain and LangGraph.
+* Developing recommender systems.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
