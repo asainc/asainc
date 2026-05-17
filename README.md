@@ -176,16 +176,6 @@ I allocate time daily to sharpen my craft and stay current:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=asainc&theme=dark&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing AI research, engineering challenges, or potential collaborations.
